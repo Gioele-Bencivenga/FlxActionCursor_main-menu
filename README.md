@@ -1,2 +1,3 @@
 # FlxActionCursor_main-menu
- Trying to control a FlxUICursor with FlxActions
+
+ Repository holding the (poor) implementation of a main menu that uses `FlxAction`s to control a `FlxCursor`.
